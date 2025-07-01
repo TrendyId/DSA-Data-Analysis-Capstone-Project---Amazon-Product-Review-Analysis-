@@ -767,7 +767,7 @@ There are 662 products using product ID with discount of 50% or more.
 
 
 # 8.	What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
-There are 662 products with discount > 50%
+The distribution of product ratings are below.
 
 - 1 product is rated 2.0
 - 1 product is rated 2.3
