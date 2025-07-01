@@ -1,13 +1,16 @@
 # DSA-Data-Analysis-Capstone-Project---Amazon-Product-Review-Analysis-
 In this project, a comprehensive Exploratory Data Analysis was done using Excel Analytical Tool.
 
+
 # Overview of Amazon Product Review Analysis
 This repository showcases an interactive Excel-based dashboard designed for RetailTech Insights, facilitating data-driven decision-making. The dashboard provides in-depth analysis and visualizations of product performance, customer engagement, and revenue trends.
+
 
 ## Key Features:
 - Product dynamics analysis: Insights into product details, customer reviews, and ratings.
 - Customer engagement analysis: Analysis of customer feedback, sentiment, and engagement metrics.
 - Revenue generation insights: Examination of revenue trends and product profitability.
+
 
 ## Data Overview:
 - Initial dataset: 1465 rows, 16 columns
@@ -15,12 +18,15 @@ This repository showcases an interactive Excel-based dashboard designed for Reta
 
 This dashboard enables RetailTech Insights teams to gain valuable insights and make informed decisions based on data analysis.
 
+
 ## Tools Used
 - Microsoft Excel Pivot Tables
 - Microsoft Excel Charts
+
   
 ## Key Dashboards & Analytics
 This project includes over 14 pivot tables and interactive charts:
+
 
 ## 1.	Average discount percentage by product category
 The average discount percentage by product category are below.
@@ -36,6 +42,7 @@ The average discount percentage by product category are below.
 - ![image](https://github.com/user-attachments/assets/24d33020-65af-46ab-a8b1-b8d4db0c1a56)
 
 
+
 ## 2.	Products Listed Under Each Category
 Products listed under each category are below.
 - Care & Motorbike – 1
@@ -48,6 +55,7 @@ Products listed under each category are below.
 - Office Products – 31
 - Toys & Games – 1
 - ![image](https://github.com/user-attachments/assets/f419a543-35e8-4abd-be09-6b2cd5ace2ef)
+
 
   
 ## 3.	Total Number of Reviews Per Category
@@ -64,12 +72,14 @@ The total number of reviews per category are below.
 - ![image](https://github.com/user-attachments/assets/62e4b063-4e00-409f-a2bf-8dc77c58dc99)
 
 
+
 ## 4.	 Products with the Highest Average Ratings
 Using the product ID, these are the products with the highest average ratings.
 - B09ZHCJDP1 – 5
 - B0BP7XLX48 – 5
 - B0BQRJ3C47 – 5
 - ![image](https://github.com/user-attachments/assets/d3c80aa8-af7a-4799-9479-9ca621665044)
+
 
 
 ## 5.	Average Actual Price vs the Discounted Price by Category
@@ -86,6 +96,7 @@ The below are a summary of the aveage actual price vs the discounted price by ca
 - ![image](https://github.com/user-attachments/assets/febd4068-de75-48de-bc6c-04c83884df8b)
 
 
+
 ## 6.	Products with the Highest Number of Reviews
 The products with the highest number of reviews are:
 - B0B9XN9S3W – 9
@@ -98,6 +109,7 @@ The products with the highest number of reviews are:
 - B07T9FV9YP – 9
 - B084N18QZY – 9
 - ![image](https://github.com/user-attachments/assets/0a058fa4-a12c-48bc-9266-daeffbcb5a2c)
+
 
 
 ## 7.	Products with a Discount of 50% or More
@@ -766,6 +778,7 @@ There are 662 products using product ID with discount of 50% or more.
 - ![image](https://github.com/user-attachments/assets/0a4b5645-4415-4f00-a085-d11f054ebb80)
 
 
+
 # 8.	What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
 The distribution of product ratings are below.
 
@@ -797,6 +810,7 @@ The distribution of product ratings are below.
 - ![image](https://github.com/user-attachments/assets/0f2284c6-f498-4b61-b7a1-4aae2105d842)
 
 
+
 ## 9.	Total Potential Revenue (Actual Price × Rating Count) by Category
 The total potential revenue by catergory is outlined below.
 - Care & Motorbike – $4,472,000.00
@@ -811,6 +825,7 @@ The total potential revenue by catergory is outlined below.
 - ![image](https://github.com/user-attachments/assets/bb7a4ed9-adf7-4e12-9f17-fa38667e7d2f)
 
 
+
 ## 10.	Number of Unique Products per Price Range Bucket (e.g., ₹500)?
 The number of unique products per price range bucket is listed below.
 - $1000 - $2000 – 311
@@ -819,6 +834,7 @@ The number of unique products per price range bucket is listed below.
 - <$200 – 34
 - >$2000 – 569
 - ![image](https://github.com/user-attachments/assets/0b486183-601c-447a-ae7a-d2036c7f5d42)
+
 
 
 ## 11.	How Rating Relates to the Level of Discount
@@ -837,8 +853,10 @@ Rating ralates to the level of discount as listed below.
 We can deduct from the information above that a high discount price on a product doesn't guarantee a high rating. This means that high discounted price is inversely proportional to a high rating.
 
 
+
 ## 12.	How Many Products have a Fewer than 1,000 reviews?
 All the products have reviews less than 1,000.
+
 
 
 ## 13.	Categories of Products with the Highest Discounts
@@ -856,6 +874,7 @@ The categories of products with the highest discounts are below.
 
 
 
+
 ## 14.	Identify the Top 5 Products in Terms of Ratings and Number of Reviews 
 The top 5 products using their product id in terms of ratings and number reviews are:
 - B014I8SX4Y
@@ -867,3 +886,30 @@ The top 5 products using their product id in terms of ratings and number reviews
 
 
 
+
+## Summary
+This project presents a detailed Excel-based dashboard analysis of Amazon product reviews, with the objective of extracting key business insights for strategic retail decision-making. Drawing on a cleaned dataset of 1,351 unique records and 16 variables, the analysis covers key product metrics, customer behavior, pricing patterns, and discount dynamics across nine major categories.
+
+Using Excel Pivot Tables and interactive charts, insights were derived across 14 different dimensions, such as:
+
+- Average discounts per category
+- Top-rated and most-reviewed products
+- Price-to-rating relationships
+- Revenue potential across categories
+- Product count per pricing bucket
+- Highest-discounted product categories
+
+This analysis highlights the power of structured review data in identifying product value, consumer engagement, and pricing performance at a glance.
+
+
+
+## Conclusion
+The Amazon Product Review Analysis reveals significant trends that RetailTech Insights and similar organizations can leverage to enhance product strategy and customer satisfaction. Key takeaways include:
+
+- Electronics and Computers & Accessories dominate both in volume and revenue potential, indicating strong consumer interest.
+- Discounts didn't play a notable role in buyer behavior.
+- All products analyzed have fewer than 1,000 reviews, suggesting room for growth in customer engagement and feedback solicitation.
+- Rating and price are not positively correlated in many categories, but some lower-priced categories (e.g., Office Products, Home Improvement) perform well in satisfaction scores.
+- The data-driven identification of top-performing products allows for smarter inventory planning, marketing focus, and pricing optimization.
+
+This project illustrates the value of Excel as a powerful tool for exploratory data analysis and visual storytelling in e-commerce environments.
